@@ -95,6 +95,11 @@
     <Content Include="css.css" />
     <Content Include="Image\caythong.png" />
     <Content Include="Image\food1.jpg" />
+    <Content Include="Image\noel.png" />
+    <Content Include="Image\ognoel.png" />
+    <Content Include="Image\onggianoel.png" />
+    <Content Include="Image\tat.png" />
+    <Content Include="Image\th1.jpg" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
